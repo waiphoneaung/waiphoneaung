@@ -18,13 +18,6 @@
   <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
-<h2 align="center">✒️ Recent Posts</h2>
-<ul>
-  <li><a target="_blank" href="#">Post 1</a></li>
-  <li><a target="_blank" href="#">Post 2</a></li>
-  <li><a target="_blank" href="#">Post 3</a></li>
-</ul>
-
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
   <a href="https://dev.to/waiphoneaung" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
