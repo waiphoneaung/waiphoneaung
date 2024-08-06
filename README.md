@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Wai Phone Aung</h1>
 <p align="center">A passionate Java developer from Myanmar.</p>
 
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">I have a strong background in Java development and am currently working on various web applications using Spring Boot and Spring Security. My projects include an e-commerce platform, a library management system, and a fruit shop website. I enjoy learning new technologies and improving my skills continuously.</p>
+
+<p align="center">In my spare time, I love contributing to open source projects, writing technical blogs, and exploring new programming languages and frameworks. I am also interested in DevOps and cloud computing.</p>
+
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
@@ -21,8 +26,10 @@
 <h2 align="center">⚡️ Where to find me</h2>
 <p align="center">
   <a href="https://dev.to/waiphoneaung" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" /></a>
+  <a href="https://linkedin.com/in/waiphoneaung" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=waiphoneaung&show_icons=true&locale=en" alt="waiphoneaung" />
 </p>
