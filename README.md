@@ -6,7 +6,7 @@
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="justify">I have a strong background in Java development and am currently working on various web applications using Spring Boot and Spring Security. My projects include an e-commerce platform, a library management system, and a fruit shop website. I enjoy learning new technologies and improving my skills continuously.</p>
 
-<p align="left">In my spare time, I love contributing to open source projects, writing technical blogs, and exploring new programming languages and frameworks. I am also interested in DevOps and cloud computing.</p>
+<p align="left">In my spare time, I love contributing to open source projects, and exploring new programming languages and frameworks. I am also interested in DevOps and cloud computing.</p>
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center">
