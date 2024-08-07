@@ -1,10 +1,12 @@
-<h1 align="center">Hi 👋, I'm Wai Phone Aung</h1>
-<p align="center">A passionate Java developer from Myanmar.</p>
 
+<h1 align="center">Hi, Welcome to my GitHub! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=500&lines=I+am+Wai+Phone+Aung.;A+passionate+Java+developer+from+Myanmar.)](https://git.io/typing-svg)
 <h2 align="center">👨‍💻 About Me</h2>
-<p align="center">I have a strong background in Java development and am currently working on various web applications using Spring Boot and Spring Security. My projects include an e-commerce platform, a library management system, and a fruit shop website. I enjoy learning new technologies and improving my skills continuously.</p>
+<p align="justify">I have a strong background in Java development and am currently working on various web applications using Spring Boot and Spring Security. My projects include an e-commerce platform, a library management system, and a fruit shop website. I enjoy learning new technologies and improving my skills continuously.</p>
 
-<p align="center">In my spare time, I love contributing to open source projects, writing technical blogs, and exploring new programming languages and frameworks. I am also interested in DevOps and cloud computing.</p>
+<p align="left">In my spare time, I love contributing to open source projects, writing technical blogs, and exploring new programming languages and frameworks. I am also interested in DevOps and cloud computing.</p>
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center">
@@ -29,16 +31,19 @@
   <a href="https://linkedin.com/in/waiphoneaung" target="_blank"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waiphoneaung&show_icons=true&locale=en" alt="waiphoneaung" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waiphoneaung" alt="waiphoneaung" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=waiphoneaung&show_icons=true&locale=en&layout=compact" alt="waiphoneaung" />
-</p>
+## Github Stats
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waiphoneaung&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
+ 
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waiphoneaung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+</div>
+
+<br>
+
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=waiphneaung&label=Profile%20views&color=0e75b6&style=flat" alt="waiphoneaung" /> </p>
+
+
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waiphoneaung" alt="waiphoneaung" /></a>
 </p>
