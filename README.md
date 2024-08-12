@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, Welcome to my GitHub! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<h1 align="center">Hi, Welcome to my GitHub! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <p align="left"> <img src="https://komarev.com/ghpvc/?username=waiphneaung&label=Profile%20views&color=0e75b6&style=flat" alt="waiphoneaung" /> </p>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=500&lines=I+am+Wai+Phone+Aung.;A+passionate+Java+developer+from+Myanmar.)](https://git.io/typing-svg)
@@ -20,7 +20,6 @@
   <a href="https://spring.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" /></a>
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" /></a>
   <a href="https://www.mysql.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
-  <a href="https://www.sqlite.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="42" height="42" /></a>
   <a href="https://www.linux.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
   <a href="https://git-scm.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
@@ -33,16 +32,12 @@
 
 ## Github Stats
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waiphoneaung&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> 
- 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waiphoneaung&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> <hr>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=waiphoneaung&theme=dark&show_icons=true&layout=compact&langs)](https://git.io/streak-stats) <br><hr>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waiphoneaung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
+
 </div>
-
 <br>
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waiphneaung&label=Profile%20views&color=0e75b6&style=flat" alt="waiphoneaung" /> </p>
-
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=waiphoneaung" alt="waiphoneaung" /></a>
