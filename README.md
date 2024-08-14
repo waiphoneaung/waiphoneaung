@@ -33,7 +33,10 @@
 ## Github Stats
 
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=waiphoneaung&theme=dark&show_icons=true&layout=compact&langs_count=7) <br> <hr>
- [![GitHub Streak](https://streak-stats.demolab.com?user=waiphoneaung&theme=dark&show_icons=true&layout=compact&langs)](https://git.io/streak-stats) <br><hr>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=waiphoneaung&theme=nightowl" alt="GitHub Streak" /></a>
+</p>
+ <br><hr>
  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waiphoneaung&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> 
 
 </div>
